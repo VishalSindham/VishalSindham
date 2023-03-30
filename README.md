@@ -1,5 +1,5 @@
 ## Hi there , Vishal Sindham Here 
-### - 🌱 I’m currently learning web development tech stack.
+### - 🌱 I’m currently learning web development .
 ### - 👯 I’m looking to collaborate on Open-Source  tools.
 ### - 🤔 I’m looking for help to understand Open-Source eco-system.
 ### - ⚡ Fun fact: Python is older than Java.  
